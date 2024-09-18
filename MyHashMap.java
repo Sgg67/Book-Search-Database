@@ -1,3 +1,5 @@
+// Author: Sage Yanoff
+
 package ass3;
 
 import java.util.AbstractMap.SimpleEntry;
